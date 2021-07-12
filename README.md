@@ -2,7 +2,8 @@
 
 <img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=viewless">
 
-- 🎓 Students' representative at [NBU](https://nbu.bg/) Student Council
+- 🎓 Student at [NBU](https://nbu.bg/)
+- 🎓 C# Courses at [SoftUni](https://softuni.bg/)
 
 #### CONNECT
 You have cool idea or want to chat? 🔽
