@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 <img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=viewless">
-   <br>
- 
 </p>
-- 🎓 Student at [NBU](https://nbu.bg/).
+- 🎓 Students' representative at [NBU](https://nbu.bg/) Student Council
 
 #### CONNECT
 You have cool idea or want to chat? 🔽
