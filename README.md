@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Full Stack Developer with C# .NET Core and Angular
 
 - 🎓 Student at [NBU](https://nbu.bg/)
