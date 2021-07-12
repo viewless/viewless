@@ -8,7 +8,7 @@
 
 #### CONNECT
 You have cool idea or want to chat? 🔽
-- [Contact me](mailto:nikola.dionisiev@gmail.com)
+- [Email](mailto:nikola.dionisiev@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/nikola-zahariev-69974713b/)
 
 ![](https://komarev.com/ghpvc/?username=viewless&color=grey&label=views&style=flat-square)
