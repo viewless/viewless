@@ -4,7 +4,7 @@
    <br>
  
 </p>
-- 🎓 Students at [NBU](https://nbu.bg/)
+- 🎓 Student at [NBU](https://nbu.bg/)
 
 #### CONNECT
 You have cool idea or want to chat? 🔽
