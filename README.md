@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**viewless/viewless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=viewless">
+   <br>
+ 
+</p>
+- 🎓 Students at [NBU](https://nbu.bg/)
 
-Here are some ideas to get you started:
+#### CONNECT
+You have cool idea or want to chat? 🔽
+- [Contact me](mailto:nikola.dionisiev@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/nikola-zahariev-69974713b/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=viewless&color=grey&label=views&style=flat-square)
