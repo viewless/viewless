@@ -6,4 +6,4 @@ Full Stack Developer with C# .NET Core and Angular
 #### CONNECT
 You have cool idea or want to chat? 🔽
 - [Email](mailto:nikola.dionisiev@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/nikola-zahariev-69974713b/)
+- [Linkedin](https://www.linkedin.com/in/nikola-zahariev/)
